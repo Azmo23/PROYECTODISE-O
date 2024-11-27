@@ -1,0 +1,22 @@
+#countdown {
+    font-size: 2em;
+    margin-top: 50px;
+}
+.time-unit {
+    display: inline-block;
+    margin: 0 10px;
+}
+.number {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #881c1c;
+}
+.label {
+    font-size: 1em;
+    color: #2600ff;
+}
+.c-regre{
+    display: contents;
+    justify-content: center;
+    color: #881c1c;
+}
